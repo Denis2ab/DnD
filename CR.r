@@ -42,4 +42,4 @@ XP <- function(Party, Monsters) {
 }
 
 #Calculadora: XP(Vector niveles PJs+NPCs, Vector CR enemigos)
-XP(c(3, 3, 3), c(1, 1))
+XP(c(3, 3, 3), c(1, 1)) #Ejemplo: 3 PJs al nivel 3 y 2 enemigos con CR 1.
